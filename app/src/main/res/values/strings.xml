@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="title_text">Self. Gratitiude. Journal</string>
+    <string name="grateful_text">What are you grateful for today ?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">or</string>
+    <string name="create_text">create account</string>
+    <string name="username_hint">username</string>
+    <string name="post_title">Title</string>
+    <string name="thoughts">Your Thoughts</string>
+    <string name="save_btn">save</string>
+    <string name="menu_title">Add thoughts</string>
+    <string name="signout_title">Signout</string>
+    <string name="no_thoughts_hint">Write a journal entry by clicking the plus icon above</string>
+</resources>

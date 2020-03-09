@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621582403344",
+    "firebase_url": "https://self-5cabf.firebaseio.com",
+    "project_id": "self-5cabf",
+    "storage_bucket": "self-5cabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621582403344:android:4048cb43339c682099c795",
+        "android_client_info": {
+          "package_name": "com.conelius.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621582403344-ljgpqnc2uhjqfefe6kp2geqq3unlcmfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv-oTzOmSw4Svxlv9rBM5ijkA7EyuxoxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621582403344-ljgpqnc2uhjqfefe6kp2geqq3unlcmfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
